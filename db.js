@@ -1,6 +1,4 @@
 const mongoose = require("mongoose");
-// const MONGODB_URL = process.env.MONGODB_URL;
-// mongoose.connect("mongodb+srv://garvmanc:KnFMeQkOwPmOpJbE@cluster0.2oqwo2e.mongodb.net/new-db");
 const Schema = mongoose.Schema;
 const ObjectId = mongoose.Types.ObjectId;
 
